@@ -1,7 +1,7 @@
 
 # 📊 Ecommerce Sales Dashboard (End-to-End Project)
 
-This end-to-end data analytics project leverages *SQL, **Python (pandas), **Excel, and **Power BI* to deliver a fully interactive ecommerce performance dashboard.
+This end-to-end data analytics project leverages *SQL, Python (pandas), Excel, and Power BI* to deliver a fully interactive ecommerce performance dashboard.
 
 ## 🛠 Tools & Technologies:
 - *SQL* – Data extraction & filtering from database
